@@ -6,6 +6,7 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://purl.obolibrary.org/obo/TEMP">
+    <Prefix name="" IRI="http://purl.obolibrary.org/obo/TEMP"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -6266,6 +6267,11 @@
         <Literal>Symptoms, Behavioral</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_4</IRI>
+        <Literal>neuropsychiatric symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_4</IRI>
         <Literal>CBSx:4</Literal>
@@ -6273,7 +6279,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_4</IRI>
-        <Literal>&quot;Behavioral symptoms, neuropsychiatric symptoms, or behavioral disturbances, behavioral impairment &quot;</Literal>
+        <Literal>Behavioral symptoms</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
