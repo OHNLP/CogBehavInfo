@@ -6,7 +6,6 @@
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      ontologyIRI="http://purl.obolibrary.org/obo/TEMP">
-    <Prefix name="" IRI="http://purl.obolibrary.org/obo/TEMP"/>
     <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
     <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
     <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
@@ -43,31 +42,10 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_19"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_194"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_195"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_196"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_197"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_198"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_199"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_2"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_20"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_200"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_201"/>
@@ -355,10 +333,73 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_293"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_294"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_295"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_296"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_297"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_298"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_299"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_3"/>
     </Declaration>
     <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_300"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_301"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_302"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_303"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_304"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_305"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_306"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_307"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_308"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_309"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_31"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_311"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_312"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_314"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_32"/>
@@ -805,30 +846,6 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_4"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_194"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_195"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_196"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_197"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_198"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_199"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_2"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_1"/>
     </SubClassOf>
@@ -837,80 +854,40 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_4"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_200"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_201"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_38"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_201"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_202"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_38"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_202"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_203"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_38"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_203"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_204"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_38"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_204"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_95"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_205"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_205"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_95"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_206"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_206"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_207"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_207"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_208"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_208"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_209"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_209"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_21"/>
@@ -921,40 +898,20 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_211"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_211"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_212"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_44"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_212"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_45"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
-    </SubClassOf>
-    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_214"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_45"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_214"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_215"/>
@@ -1277,12 +1234,96 @@
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_92"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_294"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_295"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_296"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_297"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_298"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_299"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_93"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_3"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_1"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_300"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_301"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_302"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_303"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_94"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_304"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_95"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_305"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_95"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_306"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_307"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_308"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_96"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_309"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_31"/>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_11"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_311"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_97"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_312"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_314"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_98"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_32"/>
@@ -1510,23 +1551,23 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_445"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_446"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_447"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_448"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_449"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_210"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_310"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_45"/>
@@ -1534,43 +1575,43 @@
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_450"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_211"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_311"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_451"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_211"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_311"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_452"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_211"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_311"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_453"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_212"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_312"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_454"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_212"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_312"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_455"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_212"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_312"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_456"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_457"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_458"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_459"/>
-        <Class IRI="http://purl.obolibrary.org/obo/CBSx_213"/>
+        <Class IRI="http://purl.obolibrary.org/obo/CBSx_313"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="http://purl.obolibrary.org/obo/CBSx_46"/>
@@ -2116,156 +2157,6 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>Difficulty with laundry</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>SNOMEDCT_US:424533000</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>UMLS:C1827560</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>Difficulty performing laundry activities (finding)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>CBSx:194</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_194</IRI>
-        <Literal>Difficulty with laundry</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_195</IRI>
-        <Literal>Difficulty with housecleaning</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_195</IRI>
-        <Literal>UMLS:C2187973</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_195</IRI>
-        <Literal>CBSx:195</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_195</IRI>
-        <Literal>Difficulty with housecleaning</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>Difficulty with taking care of pet</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>SNOMEDCT_US:300818001</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>UMLS:C0577531</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>Difficulty caring for pet (finding)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>CBSx:196</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_196</IRI>
-        <Literal>Difficulty with taking care of pet</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_197</IRI>
-        <Literal>Difficulty with household repairs</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_197</IRI>
-        <Literal>UMLS:TBD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_197</IRI>
-        <Literal>CBSx:197</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_197</IRI>
-        <Literal>Difficulty with household repairs</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>Difficulty with using/maintaining tools or appliances</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>SNOMEDCT_US:285856002</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>UMLS:C0563721</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>Unable to use domestic equipment (finding)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>CBSx:198</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_198</IRI>
-        <Literal>Difficulty with using/maintaining tools or appliances</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_199</IRI>
-        <Literal>Difficulty with yardwork</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_199</IRI>
-        <Literal>UMLS:TBD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_199</IRI>
-        <Literal>CBSx:199</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_199</IRI>
-        <Literal>Difficulty with yardwork</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_2</IRI>
         <Literal>Cognitive symptoms</Literal>
     </AnnotationAssertion>
@@ -2306,43 +2197,8 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>Difficulty with using medications</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>SNOMEDCT_US:450741000124107</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>UMLS:C4081515</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>Patient has difficulty administering medication (finding)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>CBSx:200</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_200</IRI>
-        <Literal>Difficulty with using medications</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_201</IRI>
         <Literal>Anterograde memory impairment</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_201</IRI>
-        <Literal>Difficulty with using or maintaining assistive devices</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -2358,11 +2214,6 @@
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_201</IRI>
         <Literal>UMLS:C0233795</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_201</IRI>
-        <Literal>UMLS:TBD</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2385,16 +2236,6 @@
         <Literal>Anterograde memory impairment</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_201</IRI>
-        <Literal>Difficulty with using or maintaining assistive devices</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
-        <Literal>Difficulty with doing physical exercises</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
         <Literal>Retrograde memory impairment </Literal>
@@ -2412,22 +2253,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
-        <Literal>SNOMEDCT_US:705021008</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
         <Literal>UMLS:C0002624</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
-        <Literal>UMLS:C3874451</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
-        <Literal>Difficulty managing exercise regime</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2447,17 +2273,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
-        <Literal>Difficulty with doing physical exercises</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_202</IRI>
         <Literal>Retrograde memory impairment</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_203</IRI>
-        <Literal>Difficulty with arranging/attending medical appointments</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2475,11 +2291,6 @@
         <Literal>UMLS:C1827547</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_203</IRI>
-        <Literal>UMLS:TBD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_203</IRI>
         <Literal>Repetitious behavior (finding)</Literal>
@@ -2492,17 +2303,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_203</IRI>
-        <Literal>Difficulty with arranging/attending medical appointments</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_203</IRI>
         <Literal>Repetitive behavior</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
-        <Literal>Difficulty with learning</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2512,22 +2313,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
-        <Literal>SNOMEDCT_US:161129001</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
-        <Literal>UMLS:C0424939</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
         <Literal>UMLS:C2702624</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
-        <Literal>LD - Learning difficulties</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
@@ -2537,17 +2323,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
-        <Literal>Difficulty with learning</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_204</IRI>
         <Literal>Misplacing things</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
-        <Literal>Difficulty with school life</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2567,11 +2343,6 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
-        <Literal>SNOMEDCT_US:161113009</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
         <Literal>SNOMEDCT_US:267724006</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -2580,19 +2351,9 @@
         <Literal>UMLS:C0233763</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
-        <Literal>UMLS:C0580094</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
         <Literal>Hallucinations, Visual</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
-        <Literal>School problem</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2612,22 +2373,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
-        <Literal>Difficulty with school life</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_205</IRI>
         <Literal>Visual hallucination</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
         <Literal>Auditory hallucination</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
-        <Literal>Difficulty with performing job duties</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -2647,27 +2398,12 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
-        <Literal>SNOMEDCT_US:737352000</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
         <Literal>UMLS:C0233762</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
-        <Literal>UMLS:C4545071</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
         <Literal>Auditory hallucinations</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
-        <Literal>Difficulty with performing work activities (finding)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2690,16 +2426,6 @@
         <Literal>Auditory hallucination</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_206</IRI>
-        <Literal>Difficulty with performing job duties</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
-        <Literal>Difficulty with seeking a job</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
         <Literal>Tactile hallucination</Literal>
@@ -2717,22 +2443,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
-        <Literal>SNOMEDCT_US:301723001</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
         <Literal>UMLS:C0233767</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
-        <Literal>UMLS:C0578406</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
-        <Literal>Difficulty carrying out job application activities</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2752,17 +2463,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
-        <Literal>Difficulty with seeking a job</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_207</IRI>
         <Literal>Tactile hallucination</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
-        <Literal>Difficulty with volunteering or community services</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2782,22 +2483,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
-        <Literal>SNOMEDCT_US:737353005</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
         <Literal>UMLS:C0233766</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
-        <Literal>UMLS:C4545072</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
-        <Literal>Difficulty with community participation (finding)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2817,17 +2503,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
-        <Literal>Difficulty with volunteering or community services</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_208</IRI>
         <Literal>Gustatory hallucination</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_209</IRI>
-        <Literal>Difficulty with keeping track of current events</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2850,11 +2526,6 @@
         <Literal>UMLS:C0233765</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_209</IRI>
-        <Literal>UMLS:TBD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_209</IRI>
         <Literal>Olfactory Hallucinations</Literal>
@@ -2868,11 +2539,6 @@
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_209</IRI>
         <Literal>CBSx:209</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_209</IRI>
-        <Literal>Difficulty with keeping track of current events</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
@@ -2902,11 +2568,6 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
-        <Literal>Difficulty with participating in social events</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
         <Literal>Reflex hallucination </Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -2922,22 +2583,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
-        <Literal>SNOMEDCT_US:870710001</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
         <Literal>UMLS:C0563661</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
-        <Literal>UMLS:C5397091</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
-        <Literal>Difficulty participating in community social life (finding)</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -2957,17 +2603,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
-        <Literal>Difficulty with participating in social events</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_210</IRI>
         <Literal>Reflex hallucination</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_211</IRI>
-        <Literal>Difficulty with pursuing hobbies</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -2995,11 +2631,6 @@
         <Literal>UMLS:C0233773</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_211</IRI>
-        <Literal>UMLS:TBD</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_211</IRI>
         <Literal>Hypnagogic Hallucinations</Literal>
@@ -3022,22 +2653,12 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_211</IRI>
-        <Literal>Difficulty with pursuing hobbies</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_211</IRI>
         <Literal>Hypnagogic hallucination</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
         <Literal>Hypnopompic hallucination</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
-        <Literal>Relationship issues within family</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -3052,22 +2673,12 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
-        <Literal>SNOMEDCT_US:266950007</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
         <Literal>SNOMEDCT_US:69690008</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
         <Literal>UMLS:C0424082</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
-        <Literal>UMLS:C0577730</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -3085,11 +2696,6 @@
         <Literal>Hypnopompic hallucinations</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
-        <Literal>Stress at home</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
         <Literal>CBSx:212</Literal>
@@ -3100,19 +2706,9 @@
         <Literal>Hypnopompic hallucination</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_212</IRI>
-        <Literal>Relationship issues within family</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
         <Literal>Anosmia</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
-        <Literal>Relationship issues with acquaintances or peers</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -3132,17 +2728,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
-        <Literal>SNOMEDCT_US:52381000119109</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
         <Literal>UMLS:C0003126</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
-        <Literal>UMLS:C3532917</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -3155,11 +2741,6 @@
         <Literal>Anosmia</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
-        <Literal>Peer problems (finding)</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
         <Literal>CBSx:213</Literal>
@@ -3170,19 +2751,9 @@
         <Literal>Anosmia</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_213</IRI>
-        <Literal>Relationship issues with acquaintances or peers</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
         <Literal>Ageusia</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
-        <Literal>Relationship issues with strangers</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -3203,11 +2774,6 @@
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
         <Literal>UMLS:C2364111</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
-        <Literal>UMLS:TBD</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
@@ -3233,11 +2799,6 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
         <Literal>Ageusia</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_214</IRI>
-        <Literal>Relationship issues with strangers</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -5756,6 +5317,156 @@
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>Difficulty with laundry</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>SNOMEDCT_US:424533000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>UMLS:C1827560</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>Difficulty performing laundry activities (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>CBSx:294</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_294</IRI>
+        <Literal>Difficulty with laundry</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_295</IRI>
+        <Literal>Difficulty with housecleaning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_295</IRI>
+        <Literal>UMLS:C2187973</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_295</IRI>
+        <Literal>CBSx:295</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_295</IRI>
+        <Literal>Difficulty with housecleaning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>Difficulty with taking care of pet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>SNOMEDCT_US:300818001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>UMLS:C0577531</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>Difficulty caring for pet (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>CBSx:296</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_296</IRI>
+        <Literal>Difficulty with taking care of pet</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_297</IRI>
+        <Literal>Difficulty with household repairs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_297</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_297</IRI>
+        <Literal>CBSx:297</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_297</IRI>
+        <Literal>Difficulty with household repairs</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>Difficulty with using/maintaining tools or appliances</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>SNOMEDCT_US:285856002</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>UMLS:C0563721</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>Unable to use domestic equipment (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>CBSx:298</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_298</IRI>
+        <Literal>Difficulty with using/maintaining tools or appliances</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_299</IRI>
+        <Literal>Difficulty with yardwork</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_299</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_299</IRI>
+        <Literal>CBSx:299</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_299</IRI>
+        <Literal>Difficulty with yardwork</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_3</IRI>
         <Literal>Psychomotor symptoms</Literal>
     </AnnotationAssertion>
@@ -5773,6 +5484,276 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_3</IRI>
         <Literal>Psychomotor symptoms</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>Difficulty with using medications</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>SNOMEDCT_US:450741000124107</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>UMLS:C4081515</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>Patient has difficulty administering medication (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>CBSx:300</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_300</IRI>
+        <Literal>Difficulty with using medications</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_301</IRI>
+        <Literal>Difficulty with using or maintaining assistive devices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_301</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_301</IRI>
+        <Literal>CBSx:301</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_301</IRI>
+        <Literal>Difficulty with using or maintaining assistive devices</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>Difficulty with doing physical exercises</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>SNOMEDCT_US:705021008</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>UMLS:C3874451</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>Difficulty managing exercise regime</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>CBSx:302</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_302</IRI>
+        <Literal>Difficulty with doing physical exercises</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_303</IRI>
+        <Literal>Difficulty with arranging/attending medical appointments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_303</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_303</IRI>
+        <Literal>CBSx:303</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_303</IRI>
+        <Literal>Difficulty with arranging/attending medical appointments</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>Difficulty with learning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>SNOMEDCT_US:161129001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>UMLS:C0424939</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>LD - Learning difficulties</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>CBSx:304</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_304</IRI>
+        <Literal>Difficulty with learning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>Difficulty with school life</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>SNOMEDCT_US:161113009</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>UMLS:C0580094</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>School problem</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>CBSx:305</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_305</IRI>
+        <Literal>Difficulty with school life</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>Difficulty with performing job duties</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>SNOMEDCT_US:737352000</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>UMLS:C4545071</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>Difficulty with performing work activities (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>CBSx:306</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_306</IRI>
+        <Literal>Difficulty with performing job duties</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>Difficulty with seeking a job</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>SNOMEDCT_US:301723001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>UMLS:C0578406</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>Difficulty carrying out job application activities</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>CBSx:307</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_307</IRI>
+        <Literal>Difficulty with seeking a job</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>Difficulty with volunteering or community services</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>SNOMEDCT_US:737353005</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>UMLS:C4545072</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>Difficulty with community participation (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>CBSx:308</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_308</IRI>
+        <Literal>Difficulty with volunteering or community services</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_309</IRI>
+        <Literal>Difficulty with keeping track of current events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_309</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_309</IRI>
+        <Literal>CBSx:309</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_309</IRI>
+        <Literal>Difficulty with keeping track of current events</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -5803,6 +5784,136 @@
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_31</IRI>
         <Literal>Inattention</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>Difficulty with participating in social events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>SNOMEDCT_US:870710001</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>UMLS:C5397091</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>Difficulty participating in community social life (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>CBSx:310</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_310</IRI>
+        <Literal>Difficulty with participating in social events</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_311</IRI>
+        <Literal>Difficulty with pursuing hobbies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_311</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_311</IRI>
+        <Literal>CBSx:311</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_311</IRI>
+        <Literal>Difficulty with pursuing hobbies</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>Relationship issues within family</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>SNOMEDCT_US:266950007</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>UMLS:C0577730</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>Stress at home</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>CBSx:312</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_312</IRI>
+        <Literal>Relationship issues within family</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>Relationship issues with acquaintances or peers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>SNOMEDCT_US:52381000119109</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>UMLS:C3532917</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>Peer problems (finding)</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>CBSx:313</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_313</IRI>
+        <Literal>Relationship issues with acquaintances or peers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_314</IRI>
+        <Literal>Relationship issues with strangers</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_314</IRI>
+        <Literal>UMLS:TBD</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#id"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_314</IRI>
+        <Literal>CBSx:314</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>http://purl.obolibrary.org/obo/CBSx_314</IRI>
+        <Literal>Relationship issues with strangers</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -6162,7 +6273,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_4</IRI>
-        <Literal>Behavioral symptoms</Literal>
+        <Literal>&quot;Behavioral symptoms, neuropsychiatric symptoms, or behavioral disturbances, behavioral impairment &quot;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -8127,7 +8238,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_5</IRI>
-        <Literal>Impact on life</Literal>
+        <Literal>&quot;Impact on life (referring to consequences, incidents, events)&quot;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -9032,7 +9143,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_70</IRI>
-        <Literal>Uncooperativeness</Literal>
+        <Literal>&quot;Noncompliance, uncooperativeness&quot;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -9117,7 +9228,7 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_73</IRI>
-        <Literal>Lack of feeling, emotion, interest</Literal>
+        <Literal>Apathy, apathetic</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasDbXref"/>
@@ -9142,11 +9253,6 @@
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_73</IRI>
-        <Literal>Apathetic</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"/>
-        <IRI>http://purl.obolibrary.org/obo/CBSx_73</IRI>
         <Literal>Apathy</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
@@ -9167,7 +9273,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_73</IRI>
-        <Literal>Apathy</Literal>
+        <Literal>&quot;Apathy, apathetic&quot;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
@@ -9197,7 +9303,7 @@
     <AnnotationAssertion>
         <AnnotationProperty abbreviatedIRI="rdfs:label"/>
         <IRI>http://purl.obolibrary.org/obo/CBSx_74</IRI>
-        <Literal>Emotional lability</Literal>
+        <Literal>&quot;Emotional lability, impaired emotional control&quot;</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://purl.obolibrary.org/obo/IAO_0000115"/>
